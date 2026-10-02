@@ -16,7 +16,7 @@
 ### Useful link
 
 ## MDN Web Docs
-**Written by:** Ann Waweru
+**Written by:** [@anncathy-commits](https://GitHub.com/anncathy-commits)
 
 ### What it is
 ### What it is used for
