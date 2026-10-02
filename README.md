@@ -10,10 +10,10 @@
 ## VS Code
 **Written by:** [@Mophat250](https://github.com/Mophat250) 
 
-### What it is
-### What it is used for
-### How to get started
-### Useful link
+### What it is -VS Code is used to write, edit, debug, and manage programming projects. It supports many programming languages, including HTML, CSS, JavaScript, Python, and Java.
+### What it is used for- VS Code is used to write, edit, debug, and manage programming projects. It supports many programming languages, including HTML, CSS, JavaScript, Python, and Java.
+### How to get started (1)Download and install VS Code.(2)Open VS Code.(3)3. Create or open a project folder.(4) Create a new file, such as `index.html`.(5) Write your code and save the file.(6)6. Install extensions when you need additional features.
+### Useful link -https://code.visualstudio.com/
 
 ## MDN Web Docs
 **Written by:** [@anncathy-commits](https://GitHub.com/anncathy-commits)
