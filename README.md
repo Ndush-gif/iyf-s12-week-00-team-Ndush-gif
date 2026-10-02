@@ -44,10 +44,13 @@
 4. Add/edit a file and **commit** changes with a small description/message.
 5. Create a new **branch** for new work and merge through **pull request**
    
-   Some basic commands for beginners
-|`git branches`|lists branches|
+   Some basic commands for beginners:
+   
+| Command      | Its use       |
+|--------------|--------------|
+|`git branch`  |lists branches|
 |`git merge`   |combines changes from one branch into the current one|
-|`git push`    |uploads commits on github|
+|`git push`    |uploads commits on GitHub|
 |`git pull`    |downloads the latest changes|
 
 ### Useful link
