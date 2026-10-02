@@ -45,11 +45,9 @@
 5. Create a new **branch** for new work and merge through **pull request**
    
    Some basic commands for beginners
-|Command     | Use          |
-|------------|--------------
 |`git branches`|lists branches|
 |`git merge`   |combines changes from one branch into the current one|
-|`git push`    |uploads commits o github|
+|`git push`    |uploads commits on github|
 |`git pull`    |downloads the latest changes|
 
 ### Useful link
