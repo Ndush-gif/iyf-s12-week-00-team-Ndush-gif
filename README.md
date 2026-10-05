@@ -18,10 +18,31 @@
 ## MDN Web Docs
 **Written by:** [@anncathy-commits](https://GitHub.com/anncathy-commits)
 
-### What it is
+MDN Web DOCS is an open community of developers, technical writers and learners building resources for a better Web, regardless of brand, browser, or platform.
 ### What it is used for
+MDN Web DOCS is used for building resources for a better Web that impacts millions of readers.
 ### How to get started
+<ol>
+  <li>Sign up or Sign in to Github</li>
+  <li>Learn about;</li>
+  <ul>
+    <li>Introduction to Github</li>
+    <li>Setting up Github</li>
+    <li>Github workflow</li>
+    <li>Using Markdown</li>
+    <li>Basic etiquette for open source projects</li>
+    <li>Web development</li>
+    <li>Deep dive into collaborating with pull requests</li>
+  </ul>
+  <li>Work on good first issues </li>
+  <li>review pull requests</li>
+  <li>Help beginners in the MDN community</li>
+  <li>Help translate MDN Web DOCS</li>
+  <li>Help fix known known frontend and backend issues</li>
+  <li>Help keep browser compatibility data up to date</li>
+</ol>
 ### Useful link
+https://developer.mozilla.org/en-US/
 
 ## Git and Github
 **Written by:** [@Ndush-gif](https://github.com/Ndush-gif)
