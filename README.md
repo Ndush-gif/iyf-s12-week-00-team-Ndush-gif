@@ -2,10 +2,16 @@
 ## Description
 - A shared guide where team members highlight one helpful tool for student life and productivity.
 ## Table of Contents
+- [What to be covered in each section](#what-to-be-covered-in-each-section)
 - [VS Code](#vs-code)
 - [MDN Web Docs](#mdn-web-docs)
 - [Git and Github](#git-and-github)
-- [What to be covered in each section](#what-to-be-covered-in-each-section)
+
+## What to be covered in each section
+- What it is
+- What it is used for
+- How to get started
+- Useful link
 
 ## VS Code
 **Written by:** [@Mophat250](https://github.com/Mophat250) 
@@ -78,9 +84,4 @@ https://developer.mozilla.org/en-US/
 - [github.com](https://docs.github.com/en)
 - [GitHub for Beginners (YouTube playlist)](https://www.youtube.com/@GitHub)
 
-## What to be covered in each section
-- What it is
-- What it is used for
-- How to get started
-- Useful link
 
