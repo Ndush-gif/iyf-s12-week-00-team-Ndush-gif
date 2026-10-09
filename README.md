@@ -73,7 +73,7 @@ MDN Web DOCS is used for building resources for a better Web that impacts millio
 |--------------|--------------|
 |`git branch`  |lists branches|
 |`git merge`   |combines changes from one branch into the current one|
-| git push     |uploads commits on GitHub|
+| `git push`     |uploads commits on GitHub|
 |`git pull`    |downloads the latest changes|
 
 ### Useful link
