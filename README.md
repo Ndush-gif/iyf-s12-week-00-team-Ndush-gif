@@ -47,21 +47,21 @@ MDN Web DOCS is used for building resources for a better Web that impacts millio
 [https://developer.mozilla.org/en-US/]
 
 ## Git and Github
-**Written by:** ~~[@Ndush-gif](https://github.com/Ndush-gif)~~
+**Written by:** [@Ndush-gif](https://github.com/Ndush-gif)
 
 ### What it is
-**Git** Is a version control system(VCS) that runs in your computer and keeps history of every change you make on your files.
-**Github** Is a website that stores Git projects online(called repositories). It lets you back up your work, share it and collaborate with other people.
+**Git** is a version control system (VCS) that runs in your computer and keeps history of every change you make on your files.
+**Github** is a website that stores Git projects online (called repositories). It lets you back up your work, share it and collaborate with other people.
 
 ### What it is used for
 - *To track changes:* enables you to see what changed, who changed it and when was it changed.
 - *To collaborate:* everyone works on their branches and merges the work through pull requests.
-- *TO back up the work:* ensures that youtr code is safe online even if your machine fails.
+- *To back up the work:* ensures that your code is safe online even if your machine fails.
 - *Build portfolio:* employers and instructors can see your work.
-- *Review each others work:* you can comment and approve changes with teammates before merging.
+- *Review each other's work:* you can comment and approve changes with teammates before merging.
 
 ### How to get started
-1. Create a github account from [github.com](https://github.com)
+1. Create a GitHub account from [github.com](https://github.com)
 2. Download Git from [git-scm.com](https://git-scm.com/install/windows), or sign in on the Github website.
 3. Create a repository by clicking ** New repository** on the upper right side.
 4. Add/edit a file and **commit** changes with a small description/message.
