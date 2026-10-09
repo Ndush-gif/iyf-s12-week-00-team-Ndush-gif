@@ -21,7 +21,7 @@
 ### How to get started (1)Download and install VS Code.(2)Open VS Code.(3)3. Create or open a project folder.(4) Create a new file, such as `index.html`.(5) Write your code and save the file.(6)6. Install extensions when you need additional features.
 ### Useful link -https://code.visualstudio.com/
 
-## MDN Web Docs
+## MDN Web DOCS
 **Written by:** [@anncathy-commits](https://GitHub.com/anncathy-commits)
 
 MDN Web DOCS is an open community of developers, technical writers and learners building resources for a better Web, regardless of brand, browser, or platform.
@@ -29,7 +29,7 @@ MDN Web DOCS is an open community of developers, technical writers and learners 
 MDN Web DOCS is used for building resources for a better Web that impacts millions of readers.
 ### How to get started
 1. Sign up or Sign in to Github
-2. Learn about;
+2. Learn about:
    * Introduction to Github
    * Setting up Github
    * Github workflow
@@ -38,7 +38,7 @@ MDN Web DOCS is used for building resources for a better Web that impacts millio
    * Web development
    * Deep dive into collaborating with pull requests
    3. Work on good first issues
-   4. review pull requests
+   4. Review pull requests
    5. Help beginners in the MDN community
    6. Help translate MDN Web DOCS
    7. Help fix known known frontend and backend issues
