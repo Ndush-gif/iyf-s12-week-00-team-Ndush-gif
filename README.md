@@ -28,25 +28,21 @@ MDN Web DOCS is an open community of developers, technical writers and learners 
 ### What it is used for
 MDN Web DOCS is used for building resources for a better Web that impacts millions of readers.
 ### How to get started
-<ol>
-  <li>Sign up or Sign in to Github</li>
-  <li>Learn about;</li>
-  <ul>
-    <li>Introduction to Github</li>
-    <li>Setting up Github</li>
-    <li>Github workflow</li>
-    <li>Using Markdown</li>
-    <li>Basic etiquette for open source projects</li>
-    <li>Web development</li>
-    <li>Deep dive into collaborating with pull requests</li>
-  </ul>
-  <li>Work on good first issues </li>
-  <li>review pull requests</li>
-  <li>Help beginners in the MDN community</li>
-  <li>Help translate MDN Web DOCS</li>
-  <li>Help fix known known frontend and backend issues</li>
-  <li>Help keep browser compatibility data up to date</li>
-</ol>
+1. Sign up or Sign in to Github
+2. Learn about;
+   * Introduction to Github
+   * Setting up Github
+   * Github workflow
+   * Using Markdown
+   * Basic etiquette for open source projects
+   * Web development
+   * Deep dive into collaborating with pull requests
+   3. Work on good first issues
+   4. review pull requests
+   5. Help beginners in the MDN community
+   6. Help translate MDN Web DOCS
+   7. Help fix known known frontend and backend issues
+   8. Help keep browser compatibility data up to date
 ### Useful link
 https://developer.mozilla.org/en-US/
 
