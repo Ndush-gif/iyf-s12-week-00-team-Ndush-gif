@@ -51,18 +51,18 @@ MDN Web DOCS is used for building resources for a better Web that impacts millio
 https://developer.mozilla.org/en-US/
 
 ## Git and Github
-**Written by:** [@Ndush-gif](https://github.com/Ndush-gif)
+**Written by:** ~~[@Ndush-gif](https://github.com/Ndush-gif)~~
 
 ### What it is
 **Git** Is a version control system(VCS) that runs in your computer and keeps history of every change you make on your files.
 **Github** Is a website that stores Git projects online(called repositories). It lets you back up your work, share it and collaborate with other people.
 
 ### What it is used for
-- **To track changes:** enables you to see what changed, who changed it and when was it changed.
-- **To collaborate:** everyone works on their branches and merges the work through pull requests.
-- **TO back up the work:** ensures that youtr code is safe online even if your machine fails.
-- **Build portfolio:** employers and instructors can see your work.
-- **Review each others work:** you can comment and approve changes with teammates before merging.
+- *To track changes:* enables you to see what changed, who changed it and when was it changed.
+- *To collaborate:* everyone works on their branches and merges the work through pull requests.
+- *TO back up the work:* ensures that youtr code is safe online even if your machine fails.
+- *Build portfolio:* employers and instructors can see your work.
+- *Review each others work:* you can comment and approve changes with teammates before merging.
 
 ### How to get started
 1. Create a github account from [github.com](https://github.com)
@@ -77,7 +77,7 @@ https://developer.mozilla.org/en-US/
 |--------------|--------------|
 |`git branch`  |lists branches|
 |`git merge`   |combines changes from one branch into the current one|
-|`git push`    |uploads commits on GitHub|
+| git push     |uploads commits on GitHub|
 |`git pull`    |downloads the latest changes|
 
 ### Useful link
