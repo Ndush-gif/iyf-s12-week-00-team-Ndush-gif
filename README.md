@@ -28,11 +28,11 @@
 ### What it is used for
 MDN Web DOCS is used for building resources for a better Web that impacts millions of readers.
 ### How to get started
-1. Sign up or Sign in to Github
+1. Sign up or Sign in to GitHub
 2. Learn about:
-   * Introduction to Github
-   * Setting up Github
-   * Github workflow
+   * Introduction to GitHub
+   * Setting up GitHub
+   * GitHub workflow
    * Using Markdown
    * Basic etiquette for open source projects
    * Web development
@@ -46,12 +46,12 @@ MDN Web DOCS is used for building resources for a better Web that impacts millio
 ### Useful link
 [https://developer.mozilla.org/en-US/]
 
-## Git and Github
+## Git and GitHub
 **Written by:** [@Ndush-gif](https://github.com/Ndush-gif)
 
 ### What it is
 **Git** is a version control system (VCS) that runs in your computer and keeps history of every change you make on your files.
-**Github** is a website that stores Git projects online (called repositories). It lets you back up your work, share it and collaborate with other people.
+**GitHub** is a website that stores Git projects online (called repositories). It lets you back up your work, share it and collaborate with other people.
 
 ### What it is used for
 - **To track changes:** enables you to see what changed, who changed it and when was it changed.
@@ -73,7 +73,7 @@ MDN Web DOCS is used for building resources for a better Web that impacts millio
 |--------------|--------------|
 |`git branch`  |lists branches|
 |`git merge`   |combines changes from one branch into the current one|
-| `git push`     |uploads commits on GitHub|
+| `git push`   |uploads commits on GitHub|
 |`git pull`    |downloads the latest changes|
 
 ### Useful link
