@@ -30,7 +30,7 @@ MDN Web DOCS is used for building resources for a better Web that impacts millio
 ### How to get started
 1. Sign up or Sign in to GitHub
 2. Learn about:
-   * Introduction to Github
+   * Introduction to GitHub
    * Setting up GitHub
    * GitHub workflow
    * Using Markdown
