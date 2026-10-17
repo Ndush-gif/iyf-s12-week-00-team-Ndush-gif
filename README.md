@@ -22,7 +22,7 @@
 ### Useful link -https://code.visualstudio.com/
 
 ## MDN Web DOCS
-**Written by:** [@anncathy-commits](https://GitHub.com/anncathy-commits)
+**Written by:** [@anncathy-commits](https://github.com/anncathy-commits)
 ### What it is
 **MDN Web DOCS** is an open community of developers, technical writers and learners building resources for a better Web, regardless of brand, browser, or platform.
 ### What it is used for
