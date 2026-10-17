@@ -44,7 +44,7 @@ MDN Web DOCS is used for building resources for a better Web that impacts millio
 7. Help fix known known frontend and backend issues
 8. Help keep browser compatibility data up to date
 ### Useful link
-[https://developer.mozilla.org/en-US/]
+Visit [MDN Web docs](https://developer.mozilla.org/en-US/)
 
 ## Git and GitHub
 **Written by:** [@Ndush-gif](https://github.com/Ndush-gif)
